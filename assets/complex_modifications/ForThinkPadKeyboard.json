@@ -1,0 +1,42 @@
+{
+  "title": "For Japanese （日本語環境向けの設定）",
+  "rules": [
+    {
+      "description": "option+PageUp/PageDown to f14/f15",
+      "manipulators": [
+        {
+          "from": {
+            "key_code": "page_up",
+            "modifiers": {
+              "mandatory": [
+              	"option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "f14"
+            }
+          ],
+          "type": "basic"
+        },
+        {
+          "from": {
+            "key_code": "page_down",
+            "modifiers": {
+              "mandatory": [
+              	"option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "f15"
+            }
+          ],
+          "type": "basic"
+        }
+      ]
+    }
+  ]
+}
