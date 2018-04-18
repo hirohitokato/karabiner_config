@@ -3,7 +3,7 @@ My karabiner configurations for ThinkPad Compact Bluetooth Keyboard with TrackPo
 
 ## How to use
 
-Place the repository to `~/.config/karabiner`
+Place the repository as `~/.config/karabiner` folder.
 
 ## License
 
