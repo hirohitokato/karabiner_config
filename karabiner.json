@@ -114,6 +114,14 @@
                         },
                         {
                             "from": {
+                                "key_code": "f12"
+                            },
+                            "to": {
+                                "key_code": "vk_launchpad"
+                            }
+                        },
+                        {
+                            "from": {
                                 "key_code": "grave_accent_and_tilde"
                             },
                             "to": {
@@ -182,14 +190,6 @@
                             },
                             "to": {
                                 "key_code": "vk_none"
-                            }
-                        },
-                        {
-                            "from": {
-                                "key_code": "f12"
-                            },
-                            "to": {
-                                "key_code": "vk_launchpad"
                             }
                         }
                     ]
